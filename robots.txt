@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ph1603.vercel.app/sitemap.xml
+Sitemap: https://ph1603.online/sitemap.xml
